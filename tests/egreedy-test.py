@@ -18,3 +18,4 @@ print("Optimal rewards:", bandit.optimal_rewards)
 print("Epsilon:", bandit.epsilon)
 print("Number of arms:", bandit.n_arms)
 print("Random seed:", SEED)
+# %%
